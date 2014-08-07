@@ -49,6 +49,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // lldb-command:print x
 // lldb-check:[...]$0 = -1

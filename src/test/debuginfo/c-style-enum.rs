@@ -78,6 +78,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // lldb-command:print auto_one
 // lldb-check:[...]$0 = One

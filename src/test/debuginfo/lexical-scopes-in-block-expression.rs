@@ -218,6 +218,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // STRUCT EXPRESSION
 // lldb-command:print val

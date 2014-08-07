@@ -66,6 +66,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 // lldb-command:print *bool_ref
 // lldb-check:[...]$0 = true
 

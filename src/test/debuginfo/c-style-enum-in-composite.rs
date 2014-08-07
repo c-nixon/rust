@@ -44,6 +44,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // lldb-command:print tuple_interior_padding
 // lldb-check:[...]$0 = (0, OneHundred)

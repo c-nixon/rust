@@ -89,6 +89,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // FIRST ITERATION
 // lldb-command:print x

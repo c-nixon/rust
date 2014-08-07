@@ -26,6 +26,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // lldb-command:print string1.length
 // lldb-check:[...]$0 = 48

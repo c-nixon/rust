@@ -81,6 +81,7 @@
 // === LLDB TESTS ==================================================================================
 
 // lldb-command:run
+// ignore-lldb
 
 // lldb-command:print shadowed
 // lldb-check:[...]$0 = 231
